@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fivetran-antoniocarbone
 - 👀 I’m interested in many things
-- 🌱 I’m currently learning connectoors
+- 🌱 I’m currently learning connectors
 - 💞️ I’m looking to collaborate on winning deals
 - 📫 How to reach me Slack
 - 😄 Pronouns: He/Him
