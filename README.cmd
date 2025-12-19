@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning connectors
 - 💞️ I’m looking to collaborate on winning deals
 - 📫 How to reach me Slack
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I was supposed to be a rockstar
 
 <!---
